@@ -1,0 +1,15 @@
+{
+  "collection": {
+    "title": "Recipe's collection"
+  },
+  "recipeDetails": {
+    "tagLabel": "Tags"
+  },
+  "footer": {
+    "aboutUs": "Footer"
+  },
+  "notFound": {
+    "title": "Page not found",
+    "description": "This page doesn't seem to exist. <0>Click here</0> to go back the homepage."
+  }
+}

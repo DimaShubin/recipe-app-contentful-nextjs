@@ -1,0 +1,19 @@
+query recipeCollection {
+  recipeCollection {
+    total
+    limit
+    items {
+      photo {
+        url
+        width
+        height
+        title
+      }
+      title
+      description
+      sys {
+        id
+      }
+    }
+  }
+}
